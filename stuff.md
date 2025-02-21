@@ -5,3 +5,4 @@
 # go is strongly typed and static typed
 in languages like c and rust memory managment is manual , with java memory managemnt is automated and is done using the jvm that every time we run a code a virtual machine is createed that is it uses more memory as compared to c and rust go comes in between it does have a garbage collector but it inlcludes a runtime 
 the purpose of go runtime is to cleanup unused memory
+#testing
